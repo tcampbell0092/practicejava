@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1 add two numbers/1 add two numbers.iml" filepath="$PROJECT_DIR$/1 add two numbers/1 add two numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/10 calc compound interest/10 calc compound interest.iml" filepath="$PROJECT_DIR$/10 calc compound interest/10 calc compound interest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 calc simple interest/11 calc simple interest.iml" filepath="$PROJECT_DIR$/11 calc simple interest/11 calc simple interest.iml" />
       <module fileurl="file://$PROJECT_DIR$/2 add two numbers scanner/2 add two numbers scanner.iml" filepath="$PROJECT_DIR$/2 add two numbers scanner/2 add two numbers scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/3 even or odd/3 even or odd.iml" filepath="$PROJECT_DIR$/3 even or odd/3 even or odd.iml" />
       <module fileurl="file://$PROJECT_DIR$/4 add two binary numbers/4 add two binary numbers.iml" filepath="$PROJECT_DIR$/4 add two binary numbers/4 add two binary numbers.iml" />
